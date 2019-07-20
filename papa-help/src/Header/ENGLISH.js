@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
-import './App.css';
-
+import React, { Component } from 'react'
 
 export default class ENGLISH extends Component {
-  render() {
+  render () {
     return (
-      <div className="Header">
-        
+      <div className='yep'>
+        <h1>
+        xvdvdv
+        </h1>
       </div>
-    );
+    )
   }
 }

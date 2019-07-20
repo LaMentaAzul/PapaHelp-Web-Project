@@ -1,14 +1,13 @@
-import React, { Component } from 'react';
-import './App.css';
-
+import React, { Component } from 'react'
 
 export default class Gewalt extends Component {
-  render() {
+  render () {
     return (
-      <div className="Header">
-        
+      <div >
+        <h1>
+        dfdfdfdf
+        </h1>
       </div>
-    );
+    )
   }
 }
-

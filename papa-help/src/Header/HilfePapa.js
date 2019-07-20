@@ -1,13 +1,11 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from 'react'
 
-
-export default class HilfePapa  extends Component {
-  render() {
+export default class HilfePapa extends Component {
+  render () {
     return (
-      <div className="Header">
-        
+      <div>
+        bhbhbh
       </div>
-    );
+    )
   }
 }
