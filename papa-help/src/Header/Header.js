@@ -15,7 +15,7 @@ export default class Header extends Component {
           <li><Link to='/src/Header/Gewalt.js' style={{ textDecoration: 'none', color: '#5B5454', fontSize: '20px' }}>Gewalt</Link></li>
           <li><Link to='/src/Header/Forderungen.js'style={{ textDecoration: 'none', color: '#5B5454', fontSize: '20px' }}>Forderungen</Link></li>
           <li><Link to='/src/Header/HilfePapa.js'style={{ textDecoration: 'none', color: '#5B5454', fontSize: '20px' }}>HilfePapa</Link></li>
-          <li><Link to='/src/Header/ENGLISH.js'style={{ textDecoration: 'none', color: '#5B5454y', fontSize: '20px' }}>ENGLISH</Link></li>
+          <li><Link to='/src/Header/ENGLISH.js'style={{ textDecoration: 'none', color: '#5B5454', fontSize: '20px' }}>ENGLISH</Link></li>
         </ul>
       </div>
     )
