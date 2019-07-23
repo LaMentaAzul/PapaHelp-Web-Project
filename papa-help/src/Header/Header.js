@@ -1,10 +1,12 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
+import pic from './papa.png'
 export default class Header extends Component {
   render () {
     return (
       <div>
-        <ul>
+        <img src={pic} className='pic' />
+        <ul className='menu-ul'>
           <li><Link to='/'>Home</Link></li>
           <li><Link to='/src/Header/Problem.js'>Problem</Link></li>
           <li><Link to='/src/Header/Presse.js'>Presse</Link></li>
