@@ -1,0 +1,54 @@
+hr
+{
+    color: #000F5E;
+    border-width:3px;
+    width:1140px;
+    margin: 0 auto;
+}
+h1
+{
+    text-align: center;
+    color: #001996;
+    
+}
+.a
+{
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: justify;
+    position: relative;
+    left: 600px;
+    font-size: 20px;
+}
+
+.text img
+{
+  float: left;
+  padding-top: 15px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+.imageRes
+{
+   display: block;
+   max-width: 100%;
+   height: auto;
+}
+.Col
+{
+    padding-top: 20px;
+    color: #5A2DE2;   
+}
+.b
+{
+ list-style-type: disc;
+ color: black;
+}
+img
+{
+    vertical-align: middle;
+}
+.li
+{
+    margin-bottom: 20px;
+}
