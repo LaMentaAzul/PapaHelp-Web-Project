@@ -17,7 +17,7 @@ class App extends Component {
       <Router>
         <div>
           <Header />
-          <Route path='/' component={UberMich} />
+          <Route exact path='/' component={UberMich} />
           <Route path='/src/Header/Problem.js' component={Problem} />
           <Route path='/src/Header/Presse.js' component={Presse} />
           <Route path='/src/Header/Losungsansatze.js' component={Losungsansatze} />

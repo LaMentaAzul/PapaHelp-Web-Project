@@ -27,8 +27,6 @@ B - To provide access to the latest scientific research results about violence t
 Anybody who is willing to share their experiences as well as their knowledge and interest should feel free to contact me. Please bear in mind that, although I observe privacy and confidentiality as set forth in Swiss Law, there is nothing about the Internet that guarantees either.
         </p>
 
-
-
       </div>
     )
   }
