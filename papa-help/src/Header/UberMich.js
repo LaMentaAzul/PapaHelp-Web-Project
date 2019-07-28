@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
-import Col from 'react-bootstrap/Col'
-import Row from 'react-bootstrap/Row'
-import Container from 'react-bootstrap/Container'
+import { Container, Row, Col } from 'reactstrap'
+import 'bootstrap/dist/css/bootstrap.css'
 import Rud from './Rud.jpg'
 export default class UberMich extends Component {
   render () {
@@ -19,24 +18,26 @@ export default class UberMich extends Component {
         <hr />
         <Container>
           <Row>
-            <Col>
-              <Col xs={6}><img src={Rud} className='imgRes' alt='Rudolf Oswald' /></Col>
-              <Col xs={6} className='Col'>
+            <Col xs='6'><img src={Rud} className='imgRes' alt='Rudolf Oswald' /></Col>
+            <Col xs='6' className='Col'>
+              <div className='title'>
                 <strong>Über mich:</strong>
-                <p>
+              </div>
+              <p>
+                <div className='title'>
                   <strong>Rudolf Oswald, 1951</strong>
-                </p>
-                <p>
-                  <ul className='b'>
-                    <li className='li'>
+                </div>
+              </p>
+              <p>
+                <ul className='b'>
+                  <li className='li'>
                     Dipl. Sozialarbeiter HFS
-                    </li>
-                    <li className='li'>Vater von drei Kindern</li>
-                    <li className='li'>weltgereist</li>
-                    <li className='li'>mehrsprachig</li>
-                  </ul>
-                </p>
-              </Col>
+                  </li>
+                  <li className='li'>Vater von drei Kindern</li>
+                  <li className='li'>weltgereist</li>
+                  <li className='li'>mehrsprachig</li>
+                </ul>
+              </p>
             </Col>
           </Row>
         </Container>

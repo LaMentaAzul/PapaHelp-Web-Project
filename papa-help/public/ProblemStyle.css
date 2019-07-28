@@ -1,7 +1,8 @@
 hr
 {
-    color: #000F5E;
-    border-width:3px;
+    border-color: #000F5E;
+    background-color:#000F5E;
+    height: 3px;
     width:1140px;
     margin: 0 auto;
 }
@@ -13,6 +14,14 @@ hr
     width: 1096px;
     font-size: 20px;
     padding-top:20px;
+    display:block;
+    position: relative;
+    background-color: #CDCDCD;
+}
+.Colp h3
+{
+    font-size:22px;
+    color:blue;
 }
 
 /* .Prob
