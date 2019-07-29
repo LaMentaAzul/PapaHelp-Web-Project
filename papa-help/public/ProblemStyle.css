@@ -29,3 +29,27 @@
     background-color: gray;
     padding-left: 100px;
 } */
+.Coly
+{
+
+    padding-left :30px;
+    text-align: justify;
+    width: 1096px;
+    font-size: 20px;
+    padding-top:20px;
+    display:block;
+    position: relative;
+    background-color: lightblue;
+    color: #4d4e4f;
+}
+.ColN
+{
+
+    padding-left :30px;
+    text-align: justify;
+    width: 1096px;
+    font-size: 20px;
+    padding-top:20px;
+    display:block;
+    position: relative;
+}

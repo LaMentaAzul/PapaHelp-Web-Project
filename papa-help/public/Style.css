@@ -36,3 +36,20 @@
 {
     position: relative;
 }
+.h4
+{
+    color: blue;
+    font-size: 24px;
+}
+.img
+{
+    border: 1px solid #272626;
+	border-radius: 10px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 0px;
+	margin-bottom: 12px;
+}
