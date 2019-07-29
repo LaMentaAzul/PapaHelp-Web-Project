@@ -53,3 +53,19 @@
 	margin-left: 0px;
 	margin-bottom: 12px;
 }
+.presse2
+{
+    border: 2px solid blue;
+    border-radius: 16px;
+    padding-left :30px;
+    padding-top:20px;
+}
+.presse2 h2
+{
+    color: #2E289B;
+}
+.presse2 h3
+{
+    font-size:22px;
+    color:darkblue;
+}
