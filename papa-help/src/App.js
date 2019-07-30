@@ -10,6 +10,7 @@ import ENGLISH from './Header/ENGLISH'
 import Gewalt from './Header/Gewalt'
 import HilfePapa from './Header/HilfePapa'
 import Header from './Header/Header'
+import Footer from './Footer/Footer'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 class App extends Component {
   render () {
@@ -26,6 +27,7 @@ class App extends Component {
           <Route path='/src/Header/Gewalt.js' component={Gewalt} />
           <Route path='/src/header/Forderungen.js' component={Forderungen} />
           <Route path='/src/header/ENGLISH.js' component={ENGLISH} />
+          <Footer />
         </div>
       </Router>
     )

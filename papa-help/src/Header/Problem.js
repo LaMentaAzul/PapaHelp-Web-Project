@@ -26,7 +26,9 @@ export default class Problem extends Component {
             </Col>
           </Row>
         </Container>
-        <p />
+        <br />
+        <br />
+        <br />
       </div>
     )
   }

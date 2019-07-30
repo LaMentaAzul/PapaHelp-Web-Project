@@ -41,9 +41,9 @@ export default class UberMich extends Component {
             </Col>
           </Row>
         </Container>
-        <p>
-          
-        </p>
+        <br />
+        <br />
+        <br />
       </div>
 
     )

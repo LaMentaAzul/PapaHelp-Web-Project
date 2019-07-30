@@ -266,6 +266,9 @@ export default class Literatur extends Component {
             </Col>
           </Row>
         </Container>
+        <br />
+        <br />
+        <br />
       </div>
     )
   }
