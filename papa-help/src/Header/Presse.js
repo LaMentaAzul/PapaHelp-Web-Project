@@ -86,6 +86,9 @@ export default class Presse extends Component {
             </Col>
           </Row>
         </Container>
+        <br />
+        <br />
+        <br />
       </div>
     )
   }
