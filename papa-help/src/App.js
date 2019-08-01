@@ -11,6 +11,9 @@ import Gewalt from './Header/Gewalt'
 import HilfePapa from './Header/HilfePapa'
 import Header from './Header/Header'
 import Footer from './Footer/Footer'
+import Physische from './GewaltContent/Physische'
+import Psychische from './GewaltContent/Psychische'
+import Strukturelle from './GewaltContent/Strukturelle'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 class App extends Component {
   render () {
@@ -27,6 +30,9 @@ class App extends Component {
           <Route path='/src/Header/Gewalt.js' component={Gewalt} />
           <Route path='/src/header/Forderungen.js' component={Forderungen} />
           <Route path='/src/header/ENGLISH.js' component={ENGLISH} />
+          <Route path='/src/GewaltContent/Physische.js' component={Physische} />
+          <Route path='/src/GewaltContent/Psychische.js' component={Psychische} />
+          <Route path='/src/GewaltContent/Strukturelle.js' component={Strukturelle} />
           <Footer />
         </div>
       </Router>
