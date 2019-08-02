@@ -43,7 +43,7 @@
 }
 .img
 {
-    border: 1px solid #272626;
+    border: 2px solid #2E289B;
 	border-radius: 10px;
 	padding-top: 12px;
 	padding-bottom: 12px;
@@ -120,4 +120,9 @@
 {
     height:100px;
     width: 200px;
+}
+.GewaltH2
+{
+    font-size: 22px;
+    color: #2E289B;
 }

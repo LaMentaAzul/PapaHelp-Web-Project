@@ -23,7 +23,7 @@ export default class HilfePapa extends Component {
               <br />
               <div className='Donation'>
               <form action='https://www.paypal.com/cgi-bin/webscr" method="post" target="_top'>
-                <input type='hidden' name='cmd' value='_donations'></input>
+                <input type='hidden' name='cmd' value='_donations'> </input>
                 <input type='hidden' name='business' value='beratung@papa-help.ch'></input>
                 <input type='hidden' name='lc' value='CH'></input>
                 <input type='hidden' name='item_name' value='Papa-Help'></input>
