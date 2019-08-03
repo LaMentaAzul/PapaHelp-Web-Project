@@ -1,25 +1,21 @@
 
-.menu-ul
+.nav.navbar-nav
 {
-    list-style-type: none;
-    margin: 0px;
-    float: right;
-    position: relative;
-    right: 20px;
-    top: 85px; 
-    left: 10px;
-    padding: 10px;
-    width: 83%;
+        list-style-type: none;
+        margin: 0px;
+        position: relative;
+        width: 83%; 
+        display: inline-block;
 }
-.menu-ul li
+.nav.navbar-nav li
 {
-  position: relative;
-  display: inline-block;
-  margin-left:30px;
-  right:10px;
-  font-family: 'Ubuntu',sans-serif;
+      position: relative;
+      margin-left:30px;
+      right:10px;
+      display: inline-block;
+      font-family: 'Ubuntu',sans-serif;
 }
-.menu-ul li::after
+.nav.navbar-nav li::after
 {
     content: '';
     display: block;
@@ -28,7 +24,7 @@
     background: #2E289B;
     transition: width .3s;
 }
-.menu-ul li:hover::after
+.nav.navbar-nav li:hover::after
 {
     width: 100%;
 }
