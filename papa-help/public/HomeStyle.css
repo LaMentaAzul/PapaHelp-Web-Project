@@ -16,11 +16,16 @@ h1
 {
     list-style-type: square;
     list-style-position: inside;
-    text-align: justify;
-    position: relative;
-    left: 600px;
-    font-size: 20px;
+    font-size: 20px; 
     color:#4D4E4F;
+    margin-top: 0;
+    margin-bottom: 10px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
 
 .text img
@@ -28,7 +33,6 @@ h1
   float: left;
   padding-top: 15px;
   padding-right: 200px;
-  padding-left: 200px;
 }
 .imageRes
 {
@@ -36,22 +40,28 @@ h1
    max-width: 100%;
    height: auto;
 }
+img {
+    vertical-align: middle;
+}
 .Col
 {
     padding-top: 20px;
-    color: #5A2DE2; 
     padding-left:20px;
     position: relative; 
-    left: 150px;  
+    left: 150px;
+    min-height: 1px;  
 }
 .b
 {
  list-style-type: disc;
  color: black;
-}
-img
-{
-    vertical-align: middle;
+ display: block;
+ margin-block-start: 1em;
+ margin-block-end: 1em;
+ margin-inline-start: 0px;
+ margin-inline-end: 0px;
+ padding-inline-start: 40px;
+ font-size: 20px;
 }
 .li
 {
@@ -60,4 +70,6 @@ img
 .title
 {
     margin-bottom: 20px;
+    color: #5A2DE2; 
+    font-size: 24px;
 }

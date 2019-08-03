@@ -22,20 +22,20 @@ export default class HilfePapa extends Component {
               </p>
               <br />
               <div className='Donation'>
-              <form action='https://www.paypal.com/cgi-bin/webscr" method="post" target="_top'>
-                <input type='hidden' name='cmd' value='_donations'> </input>
-                <input type='hidden' name='business' value='beratung@papa-help.ch'></input>
-                <input type='hidden' name='lc' value='CH'></input>
-                <input type='hidden' name='item_name' value='Papa-Help'></input>
-                <input type='hidden' name='item_number' value='Donation to Papa Help'></input>
-                <input type='hidden' name='no_note' value='0'></input>
-                <input type='hidden' name='currency_code' value='CHF'></input>
-                <input type='hidden' name='bn' value='PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest'></input>
-                <center><input type="image" src="https://www.paypalobjects.com/de_DE/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" className='Picture' alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal."/></center>
-                <br/>  &nbsp;
+                <form action='https://www.paypal.com/cgi-bin/webscr" method="post" target="_top'>
+                  <input type='hidden' name='cmd' value='_donations' />
+                  <input type='hidden' name='business' value='beratung@papa-help.ch' />
+                  <input type='hidden' name='lc' value='CH' />
+                  <input type='hidden' name='item_name' value='Papa-Help' />
+                  <input type='hidden' name='item_number' value='Donation to Papa Help' />
+                  <input type='hidden' name='no_note' value='0' />
+                  <input type='hidden' name='currency_code' value='CHF' />
+                  <input type='hidden' name='bn' value='PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest' />
+                  <center><input type='image' src='https://www.paypalobjects.com/de_DE/CH/i/btn/btn_donateCC_LG.gif' border='0' name='submit' className='Picture' alt='Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.' /></center>
+                  <br />  &nbsp;
                 </form>
-             </div>
-             </Col>  
+              </div>
+            </Col>
           </Row>
         </Container>
       </div>
