@@ -16,6 +16,8 @@ export default class Physische extends Component {
              Physische Gewalt
           </h1>
           <hr />
+          <br />
+          <br />
           <Col md='12' className='Colp'>
             <p>
         Murray A. Straus von der Universität New Hampshire widerlegt in seiner Arbeit "Dominance and Symmetry in Partner Violence" den weitverbreiteten Irrtum, Gewalt in Ehe und ähnlichen Lebensgemeinschaften gehe weitgehend von Männern aus. Er widerlegt darin auch, dass Angriffe von Frauen auf ihre Partner auf einer anderen Äthiologie beruhe als Angriffe von Männern auf deren (Ehe-)Frauen.

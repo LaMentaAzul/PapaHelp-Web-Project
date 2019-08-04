@@ -29,11 +29,11 @@ export default class Gewalt extends Component {
               <br />
               Doch die offizielle Schweiz, seine Behörden und insbesondere deren feministisch angehauchten und sexistischen Gerichte, bis anhin weitgehend auch Presse, Radio und TV verschliessen die Augen vor dieser Realität. Es ist für alle an der Zeit, den richtigen Umgang mit der Realität zu lernen!
               <br />
-              <br />
-
             </Col>
-            <hr />
+
             <Col md='4' className='ColG'>
+              <br />
+              <br />
               <center>
                 <h4 className='h4'>
                   <strong>Physische Gewalt</strong>
@@ -47,6 +47,8 @@ export default class Gewalt extends Component {
 
             </Col>
             <Col md='4' className='ColG'>
+              <br />
+              <br />
               <center>
                 <h4 className='h4'>
                   <strong>Strukturelle Gewalt</strong>
@@ -60,6 +62,8 @@ export default class Gewalt extends Component {
 
             </Col>
             <Col md='4' className='ColG'>
+              <br />
+              <br />
               <center>
                 <h4 className='h4' >
                   <strong>Psychische Gewalt</strong>
@@ -73,6 +77,8 @@ export default class Gewalt extends Component {
             </Col>
           </Row>
         </Container>
+        <br />
+        <br />
         <hr />
         <Container>
           <Row>
@@ -84,6 +90,8 @@ export default class Gewalt extends Component {
           </Row>
         </Container>
         <hr />
+        <br />
+        <br />
         <Container>
           <Row>
             <Col md='12' className='ColN'>
@@ -103,6 +111,8 @@ export default class Gewalt extends Component {
               <br />
               <br />
           2. Der Eingriff einer öffentlichen Behörde in die Ausübung dieses Rechts ist nur statthaft, insoweit dieser Eingriff gesetzlich vorgesehen ist und eine Massnahme darstellt, die in einer demokratischen Gesellschaft für die nationale Sicherheit, die öffentliche Ruhe und Ordnung, das wirtschaftliche Wohl des Landes, die Verteidigung der Ordnung und zur Verhinderung von strafbaren Handlungen, zum Schutz der Gesundheit und der Moral oder zum Schutz der Rechte und Freiheiten anderer notwendig ist.
+              <br />
+              <br />
             </Col>
           </Row>
         </Container>
