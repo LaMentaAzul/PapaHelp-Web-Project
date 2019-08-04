@@ -5,6 +5,10 @@ import 'bootstrap/dist/css/bootstrap.css'
 import Psych from './gewalt2.jpg'
 import Phys from './gewalt1.jpg'
 import struck from './gewalt3.jpg'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 
 export default class Gewalt extends Component {
   render () {
@@ -15,6 +19,8 @@ export default class Gewalt extends Component {
         Festgefahrene Denkmuster haben keine Gültigkeit mehr
         </h1>
         <hr />
+        <br />
+        <br />
         <Container>
           <Row>
             <Col md='12' className='Colp'>

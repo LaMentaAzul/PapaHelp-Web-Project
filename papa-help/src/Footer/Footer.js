@@ -3,6 +3,10 @@ import { Container, Row, Col } from 'reactstrap'
 import 'bootstrap/dist/css/bootstrap.css'
 import twitter from './twitter.png'
 import email from './email.png'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 export default class Footer extends Component {
   render () {
     return (
