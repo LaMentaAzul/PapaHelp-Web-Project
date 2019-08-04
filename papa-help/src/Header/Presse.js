@@ -23,7 +23,7 @@ export default class Presse extends Component {
                 Theoretisch sind Mann und Frau vor dem Gesetz gleich - im Fall einer Scheidung sind Frauen jedoch gleicher, wie diese Geschichte aus dem Kanton Zug zeigt
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1qFp-tV1K-DZ1wHaoP_pYAxfsgpkhac89'>
                   <button type='button' className='btn btn-info'>LESEN</button>
                 </a>
                 <br />
@@ -41,7 +41,7 @@ export default class Presse extends Component {
                 Bericht über Ronnie S., der versucht, ein guter Vater zu sein, der daran jedoch von den Behörden gehindert wird
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1bRvwe5gEf9lnaObjYVLWYiXfNmVptxTE'>
                   <button type='button' className='btn btn-info'>LESEN</button>
                 </a>
                 <br />
@@ -59,7 +59,7 @@ export default class Presse extends Component {
                 Das seit dem 1. Juli 2014 gültige Familienrecht wird weiterhin für Konflikte zwischen den Eltern sorgen
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1hOEETe3fV2_bNzC26KHNXRaMMPjo7v3J'>
                   <button type='button' className='btn btn-info'>LESEN</button>
                 </a>
                 <br />
@@ -76,7 +76,7 @@ export default class Presse extends Component {
                 <h3>VIDEO-ARD - 15. Oktober 2012</h3>
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1eD112RXOKITMt49na-PzzxoQQ0-HBpyc'>
                   <button type='button' className='btn btn-success'>VIDEO</button>
                 </a>
                 <br />
