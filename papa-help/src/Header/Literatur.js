@@ -26,7 +26,7 @@ export default class Literatur extends Component {
                 Die explorative Studie aus Deutschland zeigt auf, wie berufstätige Väter sich aktiver in die Familie einbringen können. Der Fokus liegt auf Vätern, die sich Elternzeit nehmen.
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1Lx0Z4Mxa7d_MTizBKpdH_LztkiOjw2hX'>
                   <button type='button' className='btn btn-primary'>LESEN</button>
                 </a>
                 <br />
@@ -43,7 +43,7 @@ export default class Literatur extends Component {
                 Eine Aufstellung aus den Weiten des Net mit Hunderten von Abstracts, prägnanten Auszügen aus Papers, Studienberichten und Büchern, die zwischen 1977 und 2013 zu dem heiklen Thema weltweit erschienen sind. Da soll noch einer kommen und behaupten, weibliche Gewalt gegenüber Männern und Kindern sei nicht längst bekannt und lediglich eine Randerscheinung!
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1Gi--x3bEMH7TcmrhIvz9xxb-yg3p9FQk'>
                   <button type='button' className='btn btn-primary'>LESEN</button>
                 </a>
                 <br />
@@ -60,7 +60,7 @@ export default class Literatur extends Component {
                 Theresa Benson, The University of Akron/USA, Mai 2010 (Dissertation, Englisch). Studie zu den Erfahrungen von Männern, die in heterosexuellen Beziehungen das Gewalt-Opfer ihrer Partnerinnen geworden sind
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1NjN2SE0N8b34PQMAJvRR5C0Amw3BVJQW'>
                   <button type='button' className='btn btn-primary'>LESEN</button>
                 </a>
                 <br />
@@ -78,7 +78,7 @@ export default class Literatur extends Component {
                 Wenn Mütter den Umgang ihrer Kinder mit dem Vater verhindern, soll dies nicht als Gewalt gelten. Was in Deutschland in dieser Beziehung passiert, kann auch auf die Schweiz übertragen werden. Eine Anklage nach einem Aufsatz von Joachim Bell.
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1btSLuxlZjjbA-ydVS3BOMpQjiSNRQILv'>
                   <button type='button' className='btn btn-primary'>LESEN</button>
                 </a>
                 <br />
@@ -95,7 +95,7 @@ export default class Literatur extends Component {
                 Ein Aufruf von Soziologe Gerhard Amendt, Uni Bremen, tradierte Rollenbilder zu überdenken.
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1HsKdPwJzSg1ZVJOcZuay0WbsWWqvhRbg'>
                   <button type='button' className='btn btn-primary'>LESEN</button>
                 </a>
                 <br />
@@ -113,7 +113,7 @@ export default class Literatur extends Component {
                 Linda Kelly, Professor of Law, Indiana University School of Law, Indianapolis, schilderte 1988 die haarsträubenden Reaktionen aus der amerikanischen (auch-)akademischen Welt, welche der Einsatz der früheren Feministin Suzanne K. Steinmetz zu Gunsten von gewaltbetroffenen Männern auslöste..
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1S1f6TNzhZHVbfl2erLffatDrLR2mrnzZ'>
                   <button type='button' className='btn btn-primary'>LESEN</button>
                 </a>
                 <br />
@@ -130,7 +130,7 @@ export default class Literatur extends Component {
                 Der Klassiker zum Thema weibliche Gewalt an Männern aus dem Jahr 1977 von Prof. Suzanne K. Steinmetz, Universitiy of Delaware
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=13NAouylOI9dOT8uaipZ43DkBLsXyrIjB'>
                   <button type='button' className='btn btn-primary'>LESEN</button>
                 </a>
                 <br />
@@ -150,7 +150,7 @@ export default class Literatur extends Component {
                 PAS = Elternentzugs-Syndrom: "Die kompromisslose Zuwendung eines Kindes zu einem, - dem guten, geliebten - Eltemteil und die ebenso kompromisslose Abwendung vom anderen - dem bösen, gehassten - Elternteil im Kontext von Sorge- und Umgangsrechts-Konflikten der Eltern"
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1df8gvmzXN3JgLIBK3qf-3AdSxYQ7TTO_'>
                   <button type='button' className='btn btn-success'>LESEN</button>
                 </a>
                 <br />
@@ -168,7 +168,7 @@ export default class Literatur extends Component {
  
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1Ir3Uh2K-YqzEBitz8mQ_5TugDV2n3t1n'>
                   <button type='button' className='btn btn-success'>LESEN</button>
                 </a>
                 <br />
@@ -185,7 +185,7 @@ export default class Literatur extends Component {
                 Deutsche Übersetzung einer Forschungs-Arbeit zum PAS
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1Mlfq3TJOc7cqNDbfr30Iw8QnGnGESn9U'>
                   <button type='button' className='btn btn-success'>LESEN</button>
                 </a>
                 <br />
@@ -203,7 +203,7 @@ export default class Literatur extends Component {
  
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=11k3HgcRpaOdcqG3ggdo_SPD85OKK74Nf'>
                   <button type='button' className='btn btn-success'>LESEN</button>
                 </a>
                 <br />
@@ -220,7 +220,7 @@ export default class Literatur extends Component {
                 Über die therapeutische Arbeit mit erwachsenen Scheidungskindern, bei denen sich die PAS-Problematik als wesentlicher Hintergrund schwerer psychischer und psychosomatischer Probleme im Erwachsenenalter entpuppte. - Vortrag von Dr. Wilfrid von Boch-Galhau am 14.6.1999
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1S3lbcI0Fb5s6Drzeofuz4D214c3wVWA4'>
                   <button type='button' className='btn btn-success'>LESEN</button>
                 </a>
                 <br />
@@ -237,7 +237,7 @@ export default class Literatur extends Component {
                 Die Verlaufsstudie von Richard A. Gardner geht der Frage nach, ob unter dem Syndrom der Elternentfremdung leidende Kinder auf Anordnung des Gerichtes beim entfremdeten Elternteil wohnen bzw. diesen besuchen sollten. Dies ist ein gravierender Streitpunkt unter Juristen und Fachleuten für psychische Gesundheit.
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=1z0yE0Lek8sl8PT9CdAIvc99soWcgfXKo'>
                   <button type='button' className='btn btn-success'>LESEN</button>
                 </a>
                 <br />
@@ -254,7 +254,7 @@ export default class Literatur extends Component {
                 Dr. phil. Walter Andritzky warnt vor verschiedenen Konfliktkonstellationen
                 <br />
                 <br />
-                <a href=''>
+                <a href='https://drive.google.com/open?id=17gCSjhC1_IgXswW4KSneLkeLMaQ3nIL6'>
                   <button type='button' className='btn btn-success'>LESEN</button>
                 </a>
                 <br />

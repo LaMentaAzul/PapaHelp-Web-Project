@@ -47,8 +47,8 @@ export default class UberMich extends Component {
                     Dipl. Sozialarbeiter HFS
                     </li>
                     <li className='li'>Vater von drei Kindern</li>
-                    <li className='li'>weltgereist</li>
-                    <li className='li'>mehrsprachig</li>
+                    <li className='li'>Weltgereist</li>
+                    <li className='li'>Mehrsprachig</li>
                   </ul>
                 </p>
               </div>
