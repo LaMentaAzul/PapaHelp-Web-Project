@@ -1,6 +1,10 @@
 import React, { Component } from 'react'
 import { Container, Row, Col } from 'reactstrap'
 import 'bootstrap/dist/css/bootstrap.css'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 
 export default class Problem extends Component {
   render () {
@@ -11,6 +15,8 @@ export default class Problem extends Component {
          Problem
         </h1>
         <hr />
+        <br />
+        <br />
         <Container>
           <Row>
             <Col md='12' className='Colp'>

@@ -1,0 +1,22 @@
+.Colpp
+{
+
+    padding-left :30px;
+    text-align: justify;
+    width: 1096px;
+    font-size: 20px;
+    padding-top:20px;
+    display:block;
+    position: relative;
+    background-color: #CDCDCD;
+}
+
+.Colpp .h3
+{
+    color:#2E289B;
+}
+.Colpp h3
+{
+   font-size:22px;
+   color:blue;
+}

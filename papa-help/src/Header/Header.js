@@ -2,6 +2,10 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.css'
 import pic from './papa.png'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 export default class Header extends Component {
   render () {
     return (

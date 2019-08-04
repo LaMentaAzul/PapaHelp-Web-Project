@@ -2,6 +2,10 @@ import React, { Component } from 'react'
 import { Container, Row, Col } from 'reactstrap'
 import 'bootstrap/dist/css/bootstrap.css'
 import Rud from './Rud.jpg'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 export default class UberMich extends Component {
   render () {
     return (

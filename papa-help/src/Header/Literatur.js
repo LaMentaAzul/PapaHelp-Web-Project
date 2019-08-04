@@ -2,6 +2,10 @@ import React, { Component } from 'react'
 import { Container, Row, Col } from 'reactstrap'
 import 'bootstrap/dist/css/bootstrap.css'
 import Lit from './literatur.jpg'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 
 export default class Literatur extends Component {
   render () {
@@ -12,6 +16,8 @@ export default class Literatur extends Component {
           <img src={Lit} alt='Liter' max-width='100%' />
         </center>
         <hr />
+        <br />
+        <br />
         <h1>
           <strong>GEWALT</strong>
         </h1>

@@ -1,6 +1,10 @@
 import React, { Component } from 'react'
 import { Container, Row, Col } from 'reactstrap'
 import 'bootstrap/dist/css/bootstrap.css'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 
 export default class HilfePapa extends Component {
   render () {
@@ -9,6 +13,8 @@ export default class HilfePapa extends Component {
         <hr />
         <h1>Eine Spende für einen guten Zweck</h1>
         <hr />
+        <br />
+        <br />
         <Container>
           <Row>
             <Col md='12' className='ColD' >

@@ -2,6 +2,10 @@ import React, { Component } from 'react'
 import { Container, Row, Col } from 'reactstrap'
 import 'bootstrap/dist/css/bootstrap.css'
 import PTitle from './presse1.jpg'
+import './HomeStyle.css'
+import './Style.css'
+import './Ford.css'
+import './ProblemStyle.css'
 export default class Presse extends Component {
   render () {
     return (
@@ -11,6 +15,8 @@ export default class Presse extends Component {
           <img src={PTitle} alt='Presse' max-width='100%' />
         </center>
         <hr />
+        <br />
+        <br />
         <Container>
           <Row>
             <Col md='12'>
