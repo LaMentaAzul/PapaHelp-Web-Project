@@ -47,6 +47,8 @@ export default class Forderungen extends Component {
               <br />
               <br />
          Zumindest das Studium der Sozialarbeit, allenfalls einer gleichwertigen, anerkannten Ausbildung als Voraussetzung zur Ernennung von Beiständen, resp. Mitgliedern von Kinder- und Erwachsenenschutzbehörden, um komplexen, sozialen Angelegenheiten, die familienrechtliche Auseinandersetzungen immer sind, gerecht zu werden. Juristen sind naturgemäss dazu nicht geeignet.
+              <br />
+              <br />
             </Col>
           </Row>
         </Container>

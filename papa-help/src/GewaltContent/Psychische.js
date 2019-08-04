@@ -16,6 +16,8 @@ export default class Psychische extends Component {
           Psychische Gewalt
           </h1>
           <hr />
+          <br />
+          <br />
           <Col md='12' className='Colp'>
             <p>
               Die ungewollte Trennung von Vater und Kind ist psychische Gewalt! Diesen Zusammenhang realisieren viele Väter und damit Männer bis anhin kaum. Sie müssen entgegen ihrer Sozialisation, in der sie gelernt haben, Frauen gegenüber den Stärkeren zu markieren, jetzt das Gegenteil akzeptieren; nämlich, dass sie Opfer von weiblicher Gewalt geworden sind. Das ist verständlicherweise ein Schritt, den viele Männer nicht nachvollziehen können oder wollen.

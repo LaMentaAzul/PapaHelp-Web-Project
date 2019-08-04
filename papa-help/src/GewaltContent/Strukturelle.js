@@ -16,6 +16,8 @@ export default class Strukturelle extends Component {
              Strukturelle Gewalt
           </h1>
           <hr />
+          <br />
+          <br />
           <Col md='12' className='Colp'>
             <p>
           Eine dritte Form von Gewalt, der Männer ausgesetzt sind, ist die strukturelle. Unter dem inflationsträchtigen und beliebig gewordenen Begriff "Kindeswohl" wirken die bereits angesprochenen, unqualifizierten Behörden, Beistände und weitere Helfershelfer der gutverdienenden und entsprechend geölten Scheidungsmafia. Sie merken allzu oft nicht, wie sie die bösartigen Mütter in ihren verwerflichen Absichten geradezu noch unterstützen.
